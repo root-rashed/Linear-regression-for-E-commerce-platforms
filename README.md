@@ -1,1 +1,1 @@
-# Linear-regression-for-E-commerce-platforms
+# Open in Google colab
